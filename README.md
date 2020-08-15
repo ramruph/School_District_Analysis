@@ -5,7 +5,7 @@ The purpose of this analysis is to look at the School District data and adjust t
 
 ## Results
 
-![]"Resources/Score_delete.png"
+![](Resources/Score_delete.png)
 
 
     -The district summary wasn't changed too much but the new analysis lowered the overall passing % for charter schools 
