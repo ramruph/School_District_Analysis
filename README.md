@@ -5,6 +5,9 @@ The purpose of this analysis is to look at the School District data and adjust t
 
 ## Results
 
+![]"Resources/ Score_delete"
+
+
     -The district summary wasn't changed too much but the new analysis lowered the overall passing % for charter schools 
 
     -The school summary has changed after ommiting the 9th grade class scores. The adjusted % passing for reading was 83% and the math was 66% compared to 93% and 99% respectivley
